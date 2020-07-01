@@ -1,0 +1,19 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Caneta Bic Preta",
+            "price": 5.89
+        },
+        {
+            "id": 2,
+            "name": "Faca Tramotina",
+            "price": 65.89
+        },
+        {
+            "id": 3,
+            "name": "Machadinha",
+            "price": 45.89
+        }
+    ]
+}
