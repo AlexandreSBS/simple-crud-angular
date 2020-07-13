@@ -12,7 +12,17 @@ body {
 .purple {
     color: rgba(228, 132, 255, 0.486)
 }
- 
+
 .v-middle {
     vertical-align: middle;
+}
+
+.msg-success {
+    background-color: #69f0ae;
+    color: #fff;
+}
+
+.msg-error {
+    background-color: #f44336;
+    color: #fff;
 }

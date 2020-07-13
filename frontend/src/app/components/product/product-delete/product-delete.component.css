@@ -1,0 +1,21 @@
+.field{
+    padding: 0px;
+}
+.field * {
+    display: inline;
+    padding-right: 3px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
+
+form .field {
+    padding: 0px;
+}
+
+button {
+    margin: 15px 15px 15px 0px;
+}
